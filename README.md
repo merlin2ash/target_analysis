@@ -1,4 +1,4 @@
-# Target_sql_project
+# Target_analysis
 The main objective of the Target SQL business case is to analyze the given dataset from Target Store, derive insights, and present recommendations to improve business outcomes. The analysis aims to provide valuable information for decision-making and strategic planning within the context of Target's operations in Brazil.
 
 Here is a summary of the key findings and analyses conducted: 
